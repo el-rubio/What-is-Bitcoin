@@ -1,0 +1,37 @@
+h1 {
+  margin: 30px;
+  padding: 15px;
+}
+
+h2 {
+  background-color: gold;
+  border-style: dotted;
+  padding: 5px;
+  margin: 5px;
+}
+
+p {
+  font-size: 18px;
+  margin: 30px;
+  padding: 1px;
+}
+
+#header-one {
+  background-color: black;
+  color: white;
+  width: 650px;
+  height: 90px;
+}
+
+#header-two {
+  background-color: black;
+  color: white;
+}
+
+#header-three {
+  background-color: black;
+  color: white;
+}
+
+
+
